@@ -13,7 +13,6 @@ Gem::Specification.new do |s|
   s.authors = ["Svetlana Tarasova"]
   s.date = "2017-05-29"
   s.email = "ahmadeeva.su@gmail.com"
-  s.executables = ["console", "setup"]
   s.extra_rdoc_files = [
     "LICENSE",
     "README.md"
