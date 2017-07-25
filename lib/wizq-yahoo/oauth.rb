@@ -139,9 +139,6 @@ module WizqYahoo
       def fetch_public_cert(request)
       end
 
-      def fetch_private_cert(request)
-      end
-
       def check_signature(request, consumer, token, signature)
         signature = Base64.decode64(signature)
 
