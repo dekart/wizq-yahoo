@@ -14,7 +14,7 @@ begin
     gem.email = "ahmadeeva.su@gmail.com"
     gem.homepage = "http://github.com/ahmadeeva-su/wizq-yahoo"
     gem.authors = ["Svetlana Tarasova"]
-    gem.version = '1.0.0'
+    gem.version = '1.0.1'
   end
 
   Jeweler::GemcutterTasks.new
